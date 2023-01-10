@@ -1,5 +1,5 @@
 # cursos-rapidos-2023
-rápidos cursos para adquirir múltiplas skiils e conseguir desenvolver  o máximo possível no meu dia a dia
+realizo os seguintes cursos rápidos com o intuito de conhecer novos assuntos, ou aprofundar o conhecimento em tópicos que já utilizo diariamente, para melhorar o meu desenvolvimento e produção. 
 
 
 [ ] Domindo o postman em 10 passos
