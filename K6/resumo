@@ -1,1 +1,13 @@
 
+O que foi visto no curso:
+
+- Quais tipos de testes de performance podem ser feitos com o K6
+- O conceito de cada tipo de teste e seus resultados
+    > smoke test
+    > load testing
+    > stress/spike test
+    > soak/endurace test
+- O conceito das métricas
+- Os tipos das métricas
+- O conceito e a aplicabilidade de THRESHOLDS
+- E a execução de alguns testes
